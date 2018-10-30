@@ -1,0 +1,11 @@
+{
+  "name": "build-notify-webpack-plugin",
+  "version": "0.0.1",
+  "description": "A Webpack plugin to publish desktop notifications upon build completion",
+  "main": "index.js",
+  "author": "Bin Ury",
+  "license": "MIT",
+  "scripts": {
+    "test": ""
+  }
+}
