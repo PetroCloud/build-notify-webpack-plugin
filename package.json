@@ -1,6 +1,6 @@
 {
   "name": "build-notify-webpack-plugin",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "description": "A Webpack plugin to publish desktop notifications upon build completion",
   "main": "index.js",
   "author": "Bin Ury",
@@ -8,5 +8,8 @@
   "repository": "github:petrocloud/build-notify-webpack-plugin",
   "scripts": {
     "test": ""
+  },
+  "dependencies": {
+    "node-notifier": "^5.3.0"
   }
 }
