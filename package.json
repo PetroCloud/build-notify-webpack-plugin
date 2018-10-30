@@ -5,6 +5,7 @@
   "main": "index.js",
   "author": "Bin Ury",
   "license": "MIT",
+  "repository": "github:petrocloud/build-notify-webpack-plugin",
   "scripts": {
     "test": ""
   }
